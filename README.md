@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">My social networks:</p>
+<H2 align="left">My social networks:</H2>
 <p align="left">TikTok: https://www.tiktok.com/@cvg_program</p>
 
 
