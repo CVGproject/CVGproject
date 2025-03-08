@@ -14,11 +14,8 @@
 
 ###
 
-<div  align="left">
+<div  align="center">
   <img height="200" src="https://i.imgflip.com/9mon7y.gif"  />
-</div>
-
-<div  align="right">
   <img height="200" src="https://i.imgflip.com/9mon7y.gif"  />
 </div>
 
