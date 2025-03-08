@@ -1,14 +1,14 @@
-<div  align="center">
-  <img height="350" src="https://i.imgflip.com/9mon7y.gif"  />
-</div>
-
-###
-
 <h1 align="center">💻Hi FPS</h1>
 
 ###
 
-<h2 align="left">Я розробник ігор.<br>Я з України.</h2>
+<h2 align="left">I'm a game developer. <br>I am from Ukraine.</h2>
+
+###
+
+<div  align="center">
+  <img height="350" src="https://i.imgflip.com/9mon7y.gif"  />
+</div>
 
 ###
 
