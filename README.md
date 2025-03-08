@@ -6,13 +6,13 @@
 
 ###
 
-<div  align="center">
-  <img height="350" src="https://i.imgflip.com/9mon7y.gif"  />
-</div>
+<p align="left">🎯 I have a goal to create my own game.<br>✏ In addition to programming, I am engaged in music and drawing.</p>
 
 ###
 
-<p align="left">🎯 I have a goal to create my own game.<br>✏ In addition to programming, I am engaged in music and drawing.</p>
+<div  align="center">
+  <img height="350" src="https://i.imgflip.com/9mon7y.gif"  />
+</div>
 
 ###
 
