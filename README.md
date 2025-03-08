@@ -11,7 +11,7 @@
 ###
 
 <div  align="center">
-  <img height="350" src="https://i.imgflip.com/9mon7y.gif"  />
+  <img height="300" src="https://i.imgflip.com/9mon7y.gif"  />
 </div>
 
 ###
